@@ -67,10 +67,10 @@ Click any lab below to open its dedicated README:
 | Lab | Link |
 |-----|------|
 | **IAM Lab — TechOps Ltd** | [Open README](./iam-lab-techops/README.md) |
-| **EC2 Lab — Auto Scaling & Key Pairs** | [Open README](./ec2-lab/README.md) |
-| **S3 Lab — Versioning & Lifecycle Management** | [Open README](./s3-lab/README.md) |
-| **VPC Lab — Custom Subnets & Routing** | [Open README](./vpc-lab/README.md) |
-| **CloudWatch & Monitoring Lab (Coming Soon)** | _In Progress_ |
+| **EC2 Lab — Auto Scaling & Key Pairs** | _Upcoming_ |
+| **S3 Lab — Versioning & Lifecycle Management** | _Upcoming_ |
+| **VPC Lab — Custom Subnets & Routing** | _Upcoming_ |
+| **CloudWatch & Monitoring Lab (Coming Soon)** | _Upcoming_ |
 | **Lambda Automation Lab (Planned)** | _Upcoming_ |
 
 > This section will automatically expand as new labs are added — simply create a new folder and update this table with the link to its `README.md`.
