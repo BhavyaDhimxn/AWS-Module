@@ -57,3 +57,20 @@ By completing all labs in this module, you will be able to:
 | CloudFormation / Terraform | Infrastructure as code |
 | CloudWatch / CloudTrail | Monitoring and auditing |
 | Visual Studio Code / Terminal | Code and command execution environment |
+
+---
+
+## 🧭 Quick Navigation — Lab Index
+
+Click any lab below to open its dedicated README:
+
+| Lab | Link |
+|-----|------|
+| **IAM Lab — TechOps Ltd** | [Open README](./iam-lab-techops/README.md) |
+| **EC2 Lab — Auto Scaling & Key Pairs** | [Open README](./ec2-lab/README.md) |
+| **S3 Lab — Versioning & Lifecycle Management** | [Open README](./s3-lab/README.md) |
+| **VPC Lab — Custom Subnets & Routing** | [Open README](./vpc-lab/README.md) |
+| **CloudWatch & Monitoring Lab (Coming Soon)** | _In Progress_ |
+| **Lambda Automation Lab (Planned)** | _Upcoming_ |
+
+> This section will automatically expand as new labs are added — simply create a new folder and update this table with the link to its `README.md`.
